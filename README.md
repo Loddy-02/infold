@@ -14,4 +14,4 @@ Ini adalah script buatan T-Dynamos, gw cuma share versi infector oldnya aja, bia
 * <pre>https://github.com/T-Dynamos</pre>
 
 ### INFORMASI
-`Channel : Loddy XP`
+`channel admin : Loddy XP`
