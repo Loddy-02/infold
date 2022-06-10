@@ -12,3 +12,6 @@ Ini adalah script buatan T-Dynamos, gw cuma share versi infector oldnya aja, bia
 
 ### AUTHOR ORI
 * <pre>https://github.com/T-Dynamos</pre>
+
+### INFORMASI
+`Channel : Loddy XP`
